@@ -1,0 +1,48 @@
+.text{
+    color: white;
+    font-size: xxx-large;
+    background-color: black;
+    position: sticky;
+    width: 100%;
+    z-index: 1;
+    margin-top: 2%;
+    align-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.inp{
+    margin-left: 68%;
+    margin-top: -3.5%;
+    border: 0cap;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    font-weight: 500;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif  ;
+}
+.but1{
+    margin-left: 85%;
+    margin-top: -3.5%;
+    position: absolute;
+    border: 0cap;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.search{
+    width:10px;
+    height: 20;
+}
+.textmovie{
+    margin-left: 5%;
+}
+.hr{
+    margin-top: 20%;
+    color: blue;
+    position: fixed;
+}

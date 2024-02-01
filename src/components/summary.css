@@ -1,0 +1,54 @@
+
+.ppp{
+    color: white;
+    width: 70%;
+    height: 10%;
+    margin-left: 30%;
+    margin-top:3%;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: x-large;
+}
+.butt{
+    margin-left: 45%;
+    margin-bottom: 2%;
+    border: 0cap;
+    margin-top: -12%;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.run{
+    color: rgb(173, 172, 172);
+    margin-top: 0%;
+    margin-left: 30%;
+    font-family: monospace;
+}
+.summary1{
+    color: white;
+    position: absolute;
+    width: 40%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 21%;
+    margin-top: 2%;
+    font-weight: 500;
+}
+.ima{
+    margin-left: 5%;
+    width: 20%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+}
+.card{
+    margin-bottom: 20%;
+    border: 0;
+}
+.card1{
+margin-top: 5%;
+background-color: black;
+width: 70%;
+margin-left: 15%;
+border-radius: 20px;
+}
